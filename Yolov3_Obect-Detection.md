@@ -2,6 +2,10 @@
 
 ### Prerequisites
 
+Make sure all files are in the same location
+
+### How-to
+
 To run script use the following in the command line: 
 
 ```
