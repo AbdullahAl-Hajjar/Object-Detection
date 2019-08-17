@@ -18,6 +18,6 @@ object-detection.py --input=plane.mp4  --output=plane.avi --config=yolov3.cfg --
 Please visit: 
 
 ```
-[https://pjreddie.com/darknet/]
+[https://pjreddie.com/darknet/](https://pjreddie.com/darknet/)
 [https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/]
 ```
